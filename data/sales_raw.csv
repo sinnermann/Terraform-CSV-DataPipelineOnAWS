@@ -1,0 +1,10 @@
+order_id,customer_name,category,amount,status
+1001, Hwang Yeji ,Electronics,250.50,completed
+1002,Lia Choi Ji-su,,120.00,completed
+1003, Ryujin Shin Ryu-jin ,Clothing,85.00,completed
+1004,Chaeryeong Lee Chae-ryeong,Electronics,,completed
+1005, Yuna Shin Yu-na ,Home,310.75,completed
+1006,Karina Yu Ji-min,Electronics,499.99,cancelled
+1007, Giselle Uchinaga Aeri / Kim Ae-ri ,Clothing,65.25,completed
+1008,Winter Kim Min-jeong ,Home,150.00,completed
+1009, Ningning Ning Yizhuo / Jeo Ye-tak, Clothing,385.00,completed

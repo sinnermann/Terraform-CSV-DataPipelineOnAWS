@@ -1,0 +1,5 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.run_pipeline.py
